@@ -1,2 +1,2 @@
 # showcase
-my works in analytics, data science & AI/ML
+my projects in analytics, data science & AI/ML
